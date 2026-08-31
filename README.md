@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🚧 This readme is still a work in progress, for anyone that stumbles across this in the mean time 🚧
+
 <!--
 **gndimitro/gndimitro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
