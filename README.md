@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![My Skills](https://skillicons.dev/icons?i=aws,nextjs,react,tailwind,ts,js,obsidian,html,postman,postgres,docker,kubernetes)](https://skillicons.dev)
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=gndimitro&layout=compact&langs_count=4)](https://github-stats-extended.vercel.app/api/top-langs?username=gndimitro&layout=compact&langs_count=4)
